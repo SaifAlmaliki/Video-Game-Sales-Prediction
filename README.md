@@ -26,3 +26,8 @@ Fields include
 - Other_Sales - Sales in the rest of the world (in millions)
 
 - Global_Sales - Total worldwide sales.
+
+
+source: https://www.kaggle.com/gregorut/videogamesales
+
+tutorial: https://www.youtube.com/watch?v=NkTaYo3nJmc
